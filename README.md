@@ -46,7 +46,7 @@ porque o programa os procura ali.
 | `prova_portugol_quiz.por` | Código do jogo |
 | `quiz.txt` | Banco de perguntas |
 | `moeda.jpeg` | Imagem da tela inicial |
-| `mario.mp3.mpeg` | Música de fundo |
+| `mario.mp3` | Música de fundo |
 
 ## Como adicionar perguntas
 
