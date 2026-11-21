@@ -1,0 +1,94 @@
+Qual novela foi escrita por Aguinaldo Silva e exibida pela Globo em 2001, tendo como cenário o agreste nordestino?|Televisão Brasileira|3|O Rei do Gado|O Clone|Porto dos Milagres|Avenida Brasil
+Qual programa de auditório, apresentado por Silvio Santos, é um dos mais antigos da TV brasileira?|Televisão Brasileira|2|Domingão do Faustão|Programa Silvio Santos|Show do Tom|TV Colosso
+Qual atriz interpretou a vilã Nazaré Tedesco em "Senhora do Destino"?|Televisão Brasileira|1|Renata Sorrah|Carolina Dieckmann|Camila Pitanga|Vera Fischer
+Em qual ano a TV Globo foi fundada?|Televisão Brasileira|3|1958|1963|1965|1970
+Qual foi o primeiro reality show exibido no Brasil?|Televisão Brasileira|2|Big Brother Brasil|No Limite|Casa dos Artistas|A Fazenda
+Quem foi o primeiro apresentador do "Jornal Nacional"?|Televisão Brasileira|2|Boris Casoy|Cid Moreira|William Bonner|Carlos Monforte
+Qual seriado brasileiro dos anos 80 tinha como protagonista o detetive "Osmar"?|Televisão Brasileira|3|Os Trapalhões|Carga Pesada|Mario Fofoca|Malu Mulher
+Qual humorista criou o personagem "Jô Soares" no programa "Viva o Gordo"?|Televisão Brasileira|2|Chico Anysio|Jô Soares|Tom Cavalcante|Ronald Golias
+Qual minissérie da Globo foi baseada na obra de Jorge Amado?|Televisão Brasileira|2|Anarquistas, Graças a Deus|Tieta do Agreste|A Sucessora|O Bem-Amado
+Qual programa infantil da TV Cultura tinha um castelo e um personagem chamado Etevaldo?|Televisão Brasileira|2|X-Tudo|Castelo Rá-Tim-Bum|Cocoricó|Vila Sésamo
+Qual foi o primeiro console da Nintendo?|Videogames|3|Super Nintendo|Game Boy|Color TV-Game|Nintendo 64
+Qual empresa criou a franquia "The Legend of Zelda"?|Videogames|1|Nintendo|Sega|Sony|Microsoft
+Em que ano foi lançado o PlayStation 1?|Videogames|2|1992|1994|1995|1997
+Qual é o nome do protagonista de "Red Dead Redemption 2"?|Videogames|2|John Marston|Arthur Morgan|Dutch van der Linde|Micah Bell
+Qual desses NÃO é um jogo da FromSoftware?|Videogames|3|Dark Souls|Bloodborne|The Witcher 3|Elden Ring
+Qual é o jogo mais vendido de todos os tempos (sem contar free-to-play)?|Videogames|3|Minecraft|GTA V|Tetris|Wii Sports
+Qual console introduziu os gráficos 3D em jogos populares?|Videogames|4|Atari 2600|Sega Genesis|Nintendo 64|PlayStation
+Qual é o nome do mascote da Sega?|Videogames|2|Alex Kidd|Sonic|Tails|Knuckles
+Qual franquia de jogos tem como protagonista "Kratos"?|Videogames|2|Devil May Cry|God of War|Resident Evil|Assassin's Creed
+Qual jogo popularizou o battle royale moderno?|Videogames|4|Call of Duty|H1Z1|Fortnite|PUBG
+Qual cantora é conhecida como "A Rainha do Pop"?|Música|1|Madonna|Beyoncé|Lady Gaga|Rihanna
+Qual banda britânica é considerada uma das mais influentes da história?|Música|2|The Rolling Stones|The Beatles|Queen|Pink Floyd
+Qual álbum de Michael Jackson é o mais vendido de todos os tempos?|Música|3|Bad|Dangerous|Thriller|Off the Wall
+Qual cantor brasileiro é conhecido como "O Rei do Baião"?|Música|1|Luiz Gonzaga|Tim Maia|Roberto Carlos|Caetano Veloso
+Qual grupo musical tinha como integrantes John Lennon e Paul McCartney?|Música|1|The Beatles|The Who|The Doors|Led Zeppelin
+Qual dessas músicas NÃO é da banda Legião Urbana?|Música|2|Pais e Filhos|Alívio Imediato|Que País É Este|Faroeste Caboclo
+Qual cantora ficou conhecida pelo hit "Wannabe" nos anos 90?|Música|2|Britney Spears|Spice Girls|Destiny's Child|TLC
+Qual artista brasileiro é conhecido como "O Malandro do Samba"?|Música|4|Zeca Pagodinho|Martinho da Vila|Alcione|Bezerra da Silva
+Qual cantora é conhecida como "Mother Monster"?|Música|3|Madonna|Beyoncé|Lady Gaga|Rihanna
+Qual foi o primeiro grupo de K-pop a ganhar um Billboard Music Award?|Música|1|BTS|BLACKPINK|EXO|TWICE
+Qual filme ganhou o Oscar de Melhor Filme em 2023?|Cinema|3|Duna|The Batman|Tudo em todo lugar ao mesmo tempo|Top Gun: Maverick
+Qual diretor é conhecido por filmes como "Pulp Fiction" e "Kill Bill"?|Cinema|2|Martin Scorsese|Quentin Tarantino|Christopher Nolan|Steven Spielberg
+Qual atriz interpretou a Hermione na saga "Harry Potter"?|Cinema|1|Emma Watson|Emma Stone|Keira Knightley|Natalie Portman
+Qual é o filme mais assistido da história do cinema (considerando bilheteria)?|Cinema|1|Avatar|Vingadores: Ultimato|Titanic|O Rei Leão
+Qual franquia de filmes tem como protagonista "John Wick"?|Cinema|2|Missão Impossível|John Wick|Jason Bourne|Duro de Matar
+Qual filme brasileiro foi indicado ao Oscar de Melhor Filme Estrangeiro em 1999?|Cinema|1|Central do Brasil|Cidade de Deus|Carandiru|O Auto da Compadecida
+Qual ator interpretou o Coringa em "Cavaleiro das Trevas"?|Cinema|2|Joaquin Phoenix|Heath Ledger|Jared Leto|Jack Nicholson
+Qual é o primeiro filme da Marvel Studios?|Cinema|1|Homem de Ferro (2008)|Capitão América|Thor|Os Vingadores
+Qual diretor brasileiro é conhecido por filmes como "Tropa de Elite"?|Cinema|2|Fernando Meirelles|José Padilha|Walter Salles|Glauber Rocha
+Qual filme de animação ganhou o Oscar em 2024?|Cinema|4|Encanto|Guillermo del Toro's Pinocchio|Mario Bros|O menino e a garça
+Qual é a unidade básica da vida?|Ciência|1|Célula|Átomo|Molécula|Gene
+Quem formulou a Teoria da Relatividade?|Ciência|2|Isaac Newton|Albert Einstein|Stephen Hawking|Galileu Galilei
+Qual é o elemento químico mais abundante no universo?|Ciência|3|Oxigênio|Carbono|Hidrogênio|Hélio
+Qual planeta é conhecido como "Gigante Gasoso"?|Ciência|3|Marte|Vênus|Júpiter|Saturno
+Qual cientista descobriu a penicilina?|Ciência|1|Alexander Fleming|Marie Curie|Louis Pasteur|Robert Koch
+Qual é a velocidade da luz no vácuo?|Ciência|2|300 km/s|299.792 km/s|150.000 km/s|1 milhão km/s
+Qual é o maior órgão do corpo humano?|Ciência|2|Cérebro|Pele|Fígado|Intestino
+O que a sigla "DNA" significa?|Ciência|1|Ácido Desoxirribonucleico|Ácido Ribonucleico|Molécula da Vida|Gene Hereditário
+Qual teoria explica a origem do universo?|Ciência|1|Big Bang|Evolução|Criacionismo|Teoria das Cordas
+Quem foi a primeira pessoa a viajar para o espaço?|Ciência|2|Neil Armstrong|Yuri Gagarin|Alan Shepard|Buzz Aldrin
+Qual movimento artístico teve Van Gogh como um de seus expoentes?|História da Arte|2|Barroco|Pós-Impressionismo|Cubismo|Surrealismo
+Quem pintou "A Noite Estrelada"?|História da Arte|1|Vincent van Gogh|Pablo Picasso|Claude Monet|Salvador Dalí
+Qual artista brasileiro é conhecido por suas obras com "Abaporu"?|História da Arte|2|Di Cavalcanti|Tarsila do Amaral|Cândido Portinari|Anita Malfatti
+Qual artista Brasileiro é reconhecido no mundo todo combinando elementos do realismo, do surrealismo e do pop art?|História da Arte|4|Alex Senna| Alexandre Orion| Os Gêmeos| Kobra
+Quem esculpiu "O Pensador"?|História da Arte|2|Michelangelo|Auguste Rodin|Donatello|Bernini
+Qual é a obra mais famosa de Leonardo da Vinci?|História da Arte|1|Mona Lisa|A Última Ceia|Homem Vitruviano|Dama com Arminho
+Qual movimento artístico teve Salvador Dalí como um de seus principais nomes?|História da Arte|2|Expressionismo|Surrealismo|Dadaísmo|Futurismo
+Quem pintou "O Grito"?|História da Arte|1|Edvard Munch|Paul Gauguin|Wassily Kandinsky|Egon Schiele
+Qual estilo arquitetônico é marcado por vitrais e catedrais altas?|História da Arte|1|Gótico|Barroco|Art Nouveau|Neoclássico
+Qual artista barroco pintou "As Meninas"?|História da Arte|1|Diego Velázquez|Caravaggio|Rembrandt|Rubens
+Qual empresa criou o primeiro computador pessoal (PC)?|Computadores|2|Apple|IBM|Microsoft|Commodore
+Qual é o "cérebro" do computador?|Computadores|1|CPU|GPU|RAM|HDD
+Qual foi o primeiro sistema operacional gráfico popular?|Computadores|2|Linux|Windows 3.0|Mac OS|MS-DOS
+O que significa "HTTP"?|Computadores|1|HyperText Transfer Protocol|High Tech Transfer Program|Home Tool Transport Protocol|Hyper Transfer Text Protocol
+Qual linguagem de programação foi criada por Guido van Rossum?|Computadores|2|Java|Python|C++|JavaScript
+Qual empresa desenvolveu o sistema operacional Android?|Computadores|2|Microsoft|Google|Apple|Samsung
+Qual componente é responsável por renderizar gráficos em um computador?|Computadores|1|GPU|CPU|SSD|Motherboard
+Qual foi o primeiro navegador de internet popular?|Computadores|1|Netscape Navigator|Internet Explorer|Google Chrome|Mozilla Firefox
+O que significa a sigla "HTML"?|Computadores|1|HyperText Markup Language|High Tech Machine Language|Home Tool Markup Language|Hyperlinks and Text Management
+Qual desses NÃO é um sistema operacional?|Computadores|3|Windows|Linux|Firefox|macOS
+Qual anime é conhecido como "O Rei dos Animes"?|Animes|2|One Piece|Dragon Ball|Naruto|Attack on Titan
+Quem é o protagonista de "Death Note"?|Animes|2|L|Light Yagami|Near|Misa Amane
+Qual estúdio produziu "A Viagem de Chihiro"?|Animes|1|Studio Ghibli|Toei Animation|Madhouse|Bones
+Qual é o anime mais longo em número de episódios?|Animes|2|One Piece|Sazae-san|Detective Conan|Naruto
+Qual é o nome do protagonista de "Attack on Titan"?|Animes|2|Levi|Eren Yeager|Mikasa|Armin
+Qual anime popularizou o gênero "isekai"?|Animes|2|Re:Zero|Sword Art Online|No Game No Life|Overlord
+Quem é o criador de "One Piece"?|Animes|2|Masashi Kishimoto|Eiichiro Oda|Tite Kubo|Hiro Mashima
+Qual é o anime mais assistido da Netflix em 2023?|Animes|4|Demon Slayer|Jujutsu Kaisen|Chainsaw Man|Baki Hanma
+Qual é o nome do vilão principal de "Naruto"?|Animes|4|Orochimaru|Madara Uchiha|Pain|Kaguya Otsutsuki
+Qual anime de esportes é centrado no vôlei?|Animes|2|Kuroko no Basket|Haikyuu!!|Slam Dunk|Yuri!!! on Ice
+Qual foi o maior acidente na história do automobilismo?|Automobilismo|3|GP de San Marino, 1994|GP do Bahrein, 2020|24h de Le Mans, 1955|GP de Watkins Glen, 1973
+Em que ano morreu Ayrton Senna?|Automobilismo|1|1994|1989|1995|1997
+Qual piloto de Fórmula 1 ficou conhecido como "Iceman"?|Automobilismo|4|Alain Prost|Sebastian Vettel|Max Verstappen|Kimi Räikkönen
+Qual categoria do automobilismo é exclusiva dos Estados Unidos?|Automobilismo|1|NASCAR Cup Series|IndyCar Series|Fórmula 2|Copa Truck
+Qual equipe de Fórmula 1 tem mais títulos no Campeonado de Construtores?|Automobilismo|2|McLaren|Ferrari|Red Bull Racing|Renault
+Qual o piloto mais jovem a estrear na Fórmula 1?|Automobilismo|4|Liam Lawson|Michael Schumacher|Oscar Piastri|Max Verstappen
+Qual piloto detém a maior quantidade de títulos mundiais na Fórmula 1?|Automobilismo|3|Lewis Hamilton|Sebastian Vettel|Michael Schumacher|Juan Manuel Fangio
+Qual o piloto brasileiro mais jovem a entrar na Fórmula 1?|Automobilismo|1|Tarso Marques|Gabriel Bortoleto|Ayrton Senna|Rafael Câmara
+O Halo foi introduzido após a morte de qual piloto?|Automobilismo|2|Anthoine Hubert|Jules Bianchi|Romain Grosjean|Aiva Anagnostiadis
+Qual a primeira categoria exclusivamente feminina do automobilismo?|Automobilismo|3|IndyCar Series|Fórmula 3|W Series|Fórmula E
+ 
+
+
+
